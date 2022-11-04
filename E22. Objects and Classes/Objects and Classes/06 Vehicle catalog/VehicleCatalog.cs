@@ -6,7 +6,7 @@ namespace _06_Vehicle_catalog
 {
     class VehicleCatalog
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Vehicle vehicle;
             List<Vehicle> Catalog = new List<Vehicle>();
